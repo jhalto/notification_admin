@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "112288452081",
+    "project_id": "ambulance-service-ebccd",
+    "storage_bucket": "ambulance-service-ebccd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112288452081:android:0cbc0de00c46531cc04850",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8dTcIQ_u4UYY9DKreExt1gH-dtPKB98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112288452081:android:d9c1ce2c7572fbebc04850",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8dTcIQ_u4UYY9DKreExt1gH-dtPKB98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112288452081:android:4401b838c8f9a909c04850",
+        "android_client_info": {
+          "package_name": "com.example.notification_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8dTcIQ_u4UYY9DKreExt1gH-dtPKB98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112288452081:android:9f9fc0b6cef8401dc04850",
+        "android_client_info": {
+          "package_name": "com.jhalto.ablulance_service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8dTcIQ_u4UYY9DKreExt1gH-dtPKB98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112288452081:android:06b73f90304b29efc04850",
+        "android_client_info": {
+          "package_name": "com.jhalto.ambulance_service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8dTcIQ_u4UYY9DKreExt1gH-dtPKB98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
