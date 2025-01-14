@@ -18,7 +18,8 @@ class _SendNotificationsState extends State<SendNotifications> {
   final _messageController = TextEditingController();
 
   final String _serviceAccountJson = json.encode({
-  
+        // service account json should be added
+      
   });
 
  Future<void> _sendPushNotification(String title, String message) async {
