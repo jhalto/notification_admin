@@ -67,6 +67,8 @@ class _SendNotificationsState extends State<SendNotifications> {
       ScaffoldMessenger.of(context)
           .showSnackBar(SnackBar(content: Text('Notification Sent!')));
       // Clear text fields after sending notification
+      //kjdsfkajhdk fkjasdfljk git
+      //kjhdsafkjklasdjf
       _titleController.clear();
       _messageController.clear();
     } else {
